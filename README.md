@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
+[エアコンタイマー](https://apps.apple.com/jp/app/%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/id6450660620)
+
+[ニュースワイプ](https://apps.apple.com/jp/app/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AF%E3%82%A4%E3%83%97/id6449730247)
+
+[me good](https://apps.apple.com/jp/app/me-good/id6461214990)
