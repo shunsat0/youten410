@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youten410&theme=default)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=youten410&theme=default)
 
 [エアコンタイマー](https://apps.apple.com/jp/app/%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/id6450660620)
 
