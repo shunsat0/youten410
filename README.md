@@ -1,5 +1,9 @@
 ### Youten(410)
 My name comes from the server error code "410".
+
+もともと、410(ステータスコード)でSNSやってて知り合いが読み方を考えてくれた。
+4(よん)10(テン)、日本語と英語で数字を読んで、もうちょっと読みやすいように「ん」を「う」にしたという感じ。
+ちなみに410 Goneはちょっと悲しげな感じがして好き。
 <!--
 **youten410/youten410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
