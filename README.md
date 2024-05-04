@@ -1,21 +1,9 @@
 ### Youten(410)
 My name comes from the server error code "410".
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youten410&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=youten410&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-</p>
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=youten410&theme=tokyonight&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youten410&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=youten410&theme=default)
-
-[エアコンタイマー](https://apps.apple.com/jp/app/%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/id6450660620)
-
-[ニュースワイプ](https://apps.apple.com/jp/app/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AF%E3%82%A4%E3%83%97/id6449730247)
-
-[me good](https://apps.apple.com/jp/app/me-good/id6461214990)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username= youten410" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username= youten410&layout=compact&langs_count=8&card_width=320" />
+</a>
